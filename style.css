@@ -1,3 +1,8 @@
 body {
   text-align: center;
+  background-image: url(http://nnn.no/wp-content/uploads/2015/02/Trygve.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
